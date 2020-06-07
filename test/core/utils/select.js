@@ -1,3 +1,7 @@
+/*
+	Selecting the dom element is a key part
+		comprised of also the selector logic see this.selector
+*/
 describe('axe.utils.select', function() {
 	'use strict';
 
